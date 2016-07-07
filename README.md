@@ -1,3 +1,12 @@
+# Giant Swarm related
+
+Usage:
+1. Check out the webhook URL in Slack and create `config.json`
+2. Edit `repos.json`
+3. `docker build -t registry.giantswarm.io/giantswarm/repobot:tag .` (don't forget to increment tag version)
+3. `docker push registry.giantswarm.io/giantswarm/repobot:tag`
+4. `prodswarm update repobot/repobot tag`
+
 # github-releases-slack-notifier
 
 This module is a simple Slackbot that post a notification to a Slack group channel when new releases for one of configured GitHub repositories.

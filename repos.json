@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://github.com/kubernetes/kubernetes/"
+    },
+    {
+        "url": "https://github.com/kubernetes/dashboard/"
+    },
+    {
+        "url": "https://github.com/kubernetes/minikube/"
+    },
+    {
+        "url": "https://github.com/docker/docker"
+    },
+    {
+        "url": "https://github.com/coreos/etcd"
+    },
+    {
+        "url": "https://github.com/coreos/rkt"
+    },
+    {
+        "url": "https://github.com/coreos/fleet"
+    },
+    {
+        "url": "https://github.com/prometheus/prometheus"
+    }
+]
