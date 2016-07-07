@@ -1,26 +1,90 @@
 [
     {
-        "url": "https://github.com/kubernetes/kubernetes/"
+        "url": "https://github.com/kubernetes/kubernetes/",
+        "name": "kubernetes"
     },
     {
-        "url": "https://github.com/kubernetes/dashboard/"
+        "url": "https://github.com/kubernetes/dashboard/",
+        "name": "kubernetes dashboard"
     },
     {
-        "url": "https://github.com/kubernetes/minikube/"
+        "url": "https://github.com/kubernetes/minikube/",
+        "name": "minikube"
     },
     {
-        "url": "https://github.com/docker/docker"
+        "url": "https://github.com/docker/docker",
+        "name": "docker"
     },
     {
-        "url": "https://github.com/coreos/etcd"
+        "url": "https://github.com/coreos/etcd",
+        "name": "etcd"
     },
     {
-        "url": "https://github.com/coreos/rkt"
+        "url": "https://github.com/coreos/rkt",
+        "name": "rkt"
     },
     {
-        "url": "https://github.com/coreos/fleet"
+        "url": "https://github.com/coreos/fleet",
+        "name": "fleet"
     },
     {
-        "url": "https://github.com/prometheus/prometheus"
+        "url": "https://github.com/prometheus/prometheus",
+        "name": "prometheus"
+    },
+    {
+        "url": "https://github.com/prometheus/alertmanager",
+        "name": "prometheus alertmanager"
+    },
+    {
+        "url": "https://github.com/coreos/flannel",
+        "name": "flannel"
+    },
+    {
+        "url": "https://github.com/projectcalico/calico",
+        "name": "calico"
+    },
+    {
+        "url": "https://github.com/tigera/canal",
+        "name": "canal"
+    },
+    {
+        "url": "https://github.com/hashicorp/vault",
+        "name": "vault"
+    },
+    {
+        "url": "https://github.com/hashicorp/consul",
+        "name": "consul"
+    },
+    {
+        "url": "https://github.com/facebook/react",
+        "name": "react"
+    },
+    {
+        "url": "https://github.com/grafana/grafana",
+        "name": "grafana"
+    },
+    {
+        "url": "https://github.com/influxdata/influxdb",
+        "name": "influxdb"
+    },
+    {
+        "url": "https://github.com/google/cadvisor",
+        "name": "cadvisor"
+    },
+    {
+        "url": "https://github.com/weaveworks/weave",
+        "name": "weave"
+    },
+    {
+        "url": "https://github.com/weaveworks/scope",
+        "name": "weave scope"
+    },
+    {
+        "url": "https://github.com/golang/go",
+        "name": "go"
+    },
+    {
+        "url": "https://github.com/elastic/elasticsearch",
+        "name": "elasticsearch"
     }
 ]
